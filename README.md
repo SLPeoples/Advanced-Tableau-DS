@@ -2,6 +2,24 @@
 
 ## Master Tableau 10 in Data Science by solving Real-Life Analytics Problems. Learn Visualisation and Data Mining by doing!
 
+https://www.udemy.com/tableau10-advanced
+
+# Tableau Links:
+
+* Section 2: Groups and Sets, 1000 Startups
+
+https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/1000Startups_58/TheStartupQuadrant
+
+* Section 3: Advanced Table Calculations, Coal Mining
+
+* Section 4: Advanced Data Preparation and Analytics, Australian Retail
+
+* Section 5: Animations, World Populations
+
+* Section 6: Level-of-Detail Calculations, Interactive Maps
+
+# Course Description:
+
 Ready to take your Tableau skills to the next level? 
 
 Want to truly impress your boss and the team at work?
