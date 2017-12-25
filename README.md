@@ -12,11 +12,19 @@ https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/1000Startups_58/Th
 
 * Section 3: Advanced Table Calculations, Coal Mining
 
+https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/CoalTerminalMaintenance_2/CoalTerminalMaintenanceAnalysis
+
 * Section 4: Advanced Data Preparation and Analytics, Australian Retail
+
+https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/...
 
 * Section 5: Animations, World Populations
 
+https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/...
+
 * Section 6: Level-of-Detail Calculations, Interactive Maps
+
+https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/...
 
 # Course Description:
 
