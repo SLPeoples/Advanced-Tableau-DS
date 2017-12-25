@@ -16,7 +16,7 @@ https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/CoalTerminalMainte
 
 * Section 4: Advanced Data Preparation and Analytics, Australian Retail
 
-https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/...
+https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/ExpansionAnalysis-AustralianClothingRetail/ExpansionAnalysisInsights
 
 * Section 5: Animations, World Populations
 
