@@ -8,23 +8,23 @@ https://www.udemy.com/tableau10-advanced
 
 * Section 2: Groups and Sets, 1000 Startups
 
-https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/1000Startups_58/TheStartupQuadrant
+https://goo.gl/jtC4fu
 
 * Section 3: Advanced Table Calculations, Coal Mining
 
-https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/CoalTerminalMaintenance_2/CoalTerminalMaintenanceAnalysis
+https://goo.gl/DqaR3f
 
 * Section 4: Advanced Data Preparation and Analytics, Australian Retail
 
-https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/ExpansionAnalysis-AustralianClothingRetail/ExpansionAnalysisInsights
+https://goo.gl/yDk9uQ
 
 * Section 5: Animations, World Populations
 
-https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/WorldDemographics_24/WorldDemographics
+https://goo.gl/9pJvMo
 
 * Section 6: Level-of-Detail Calculations, Interactive Maps
 
-https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/LevelOfDetailCalculations-CityandStateLevelProfits/LevelOfDetailCalculations
+https://goo.gl/d6xWRA
 
 # Course Description:
 
