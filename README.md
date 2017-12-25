@@ -24,7 +24,7 @@ https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/WorldDemographics_
 
 * Section 6: Level-of-Detail Calculations, Interactive Maps
 
-https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/...
+https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/LevelOfDetailCalculations-CityandStateLevelProfits/LevelOfDetailCalculations
 
 # Course Description:
 
